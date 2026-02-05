@@ -28,7 +28,7 @@ This extended drum section became the foundation for MCs to hype up the crowd.
 2. [Afrika Bambaataa](https://youtu.be/9J3lwZjHenA) – spread hip hop culture through the Universal Zulu Nation. 
 3. [Grandmaster Flash](https://youtu.be/PobrSpMwKk4) – innovated DJ techniques like scratching and cutting.
 
-## 3. The Old School Era (Early 1980s)## 
+## 3. The Old School Era (Early 1980s) ## 
 
 ![Run DMC](https://i.imgur.com/e80w9gc.jpg) 
 
@@ -37,7 +37,7 @@ As hip hop gained traction, artists began recording tracks commercially.
 - [Run-DMC](https://youtu.be/l-O5IHVhWj0) fused rock and rap, creating crossover hits.   
 - [LL Cool J](https://youtu.be/vimZj8HW0Kg) and [Beastie Boys](https://youtu.be/07Y0cy-nvAg) brought hip hop to MTV audiences.   
 
-## 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)##
+## 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s) ##
 
 ![Notorious B.I.G.](https://i.imgur.com/aICxYyc.jpg) 
 
@@ -47,7 +47,7 @@ As hip hop gained traction, artists began recording tracks commercially.
 The **Golden Age** is often described as the most creative and influential period of hip hop.  
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
 
-## 4.1 East Coast Greats## 
+## 4.1 East Coast Greats ## 
 - **A Tribe Called Quest** – jazz-influenced beats, socially conscious lyrics.  
 - **The Notorious B.I.G**. – storytelling genius, _Ready to Die_ (1994).  
 - **Nas** – _Illmatic_ (1994), often considered one of the greatest hip hop albums ever.  
