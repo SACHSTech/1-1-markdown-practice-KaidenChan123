@@ -47,12 +47,12 @@ As hip hop gained traction, artists began recording tracks commercially.
 The **Golden Age** is often described as the most creative and influential period of hip hop.  
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
 
-## 4.1 East Coast Greats ## 
+### 4.1 East Coast Greats ###
 - **A Tribe Called Quest** – jazz-influenced beats, socially conscious lyrics.  
 - **The Notorious B.I.G**. – storytelling genius, _Ready to Die_ (1994).  
 - **Nas** – _Illmatic_ (1994), often considered one of the greatest hip hop albums ever.  
 
-4.2 West Coast Pioneers  
+### 4.2 West Coast Pioneers  ###
 - **N.W.A.** – brought gangsta rap to the forefront with _Straight Outta Compton_ (1988).  
 - **Tupac Shakur (2Pac)** – poetic lyricism with political and emotional depth.  
 - **Ice Cube** and **Dr. Dre** – pushed West Coast sound into the mainstream.  
@@ -60,12 +60,12 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 
 ## 5. Elements of Style ##
 
-## 5.1 Lyrical Themes ##
+### 5.1 Lyrical Themes ###
 - Social commentary (racism, poverty, politics)  
 - Braggadocio and wordplay  
 - Storytelling and narratives  
 
-## 5.2 Production Techniques ## 
+### 5.2 Production Techniques ###
 - Sampling from funk, jazz, and soul records  
 - Use of drum machines like the Roland TR-808  
 - Layering multiple samples into dense sound collages  
