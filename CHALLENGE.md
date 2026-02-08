@@ -35,7 +35,8 @@ Test your knowledge of Markdown syntax with these examples. Can you re-create th
      - MongoDB
      - Redis
 
-Example 2
+## Example 2 ##
+
 This is a single paragraph sentence that 
 
 should break softly with two spaces at the end of the previous line. 
@@ -47,7 +48,7 @@ Now this is a hard break (blank line above),
 which creates a brand new paragraph.
 
 
-Example 3
+## Example 3 ##
 
 ![A minimal Markdown logo in black and white](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
