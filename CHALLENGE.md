@@ -77,14 +77,12 @@ The way they can communicate a complex message in a very short space is remarkab
   
 
 Example 5
-Tool, Strengths, Weaknesses
-GitHub
-Easy collaboration, integrates CI/CD
-Requires knowledge of git
+|    Tool     |              Strengths                |         Weaknesses        |
+| ----------- | --------------------------------------| ------------------------- |
+|  **GitHub** | Easy collaboration, integrates CI/CD  |  Requires knowledge of git |
+| ----------- | --------------------------------------| ------------------------- |
+|  _Markdown_ | Lightweight, portable, human-readable | Limited styling compared to HTML |
+| ----------- | --------------------------------------| ------------------------- |
+|  VS Code    |    Extensions, debugging, free        | Can feel heavy on low-end machines |
+| ----------- | --------------------------------------| ------------------------- |
 
-Markdown
-Lightweight, portable, human-readable
-Limited styling compared to HTML
-
-VS CodeExtensions, debugging, free
-Can feel heavy on low-end machines
