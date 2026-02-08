@@ -1,23 +1,27 @@
-Tricky Examples
+# Tricky Examples #
 Test your knowledge of Markdown syntax with these examples. Can you re-create them without looking anything up?
 
-Example 1
-Programming Languages
-Python
-Popular Frameworks
-Django
-Flask
-Notable Features
-Dynamic typing
-Huge ecosystem
-JavaScript
-Frontend
-React
-Vue
-Angular
-Backend
-Node.js
-Deno
+## Example 1 ##
+
+1. Programming Languages
+  - Python
+    a. Popular Frameworks
+     - Django
+     - Flask
+       
+    b. Notable Features
+      - Dynamic typing
+      - Huge ecosystem
+        
+  - JavaScript
+    a. Frontend
+      - React
+      - Vue
+      - Angular
+        
+    b. Backend
+      - Node.js
+      - Deno
 
 Databases
 Relational
