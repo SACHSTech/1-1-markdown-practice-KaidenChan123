@@ -37,10 +37,13 @@ Test your knowledge of Markdown syntax with these examples. Can you re-create th
 
 Example 2
 This is a single paragraph sentence that 
+
 should break softly with two spaces at the end of the previous line. 
+
 Here’s the continuation of the same paragraph.
 
 Now this is a hard break (blank line above),
+
 which creates a brand new paragraph.
 
 
