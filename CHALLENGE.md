@@ -48,10 +48,10 @@ which creates a brand new paragraph.
 
 
 Example 3
-A minimal Markdown logo in black and white
-image source: https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg
-link for image click: https://www.markdownguide.org
-Click the image above to visit the Markdown Guide website.
+
+![A minimal Markdown logo in black and white](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+
+_Click the image above to visit the Markdown Guide website._
 
 NOTE: The above image source is https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg. It uses the alt text A minimal Markdown logo in black and white and, when clicked, takes the user to the website at https://www.markdownguide.org
 
